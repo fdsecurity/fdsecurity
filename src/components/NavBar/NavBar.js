@@ -1,11 +1,12 @@
-import {  NavDropdown, Container, Nav, Form, FormControl, Button, Navbar  } from 'react-bootstrap'
+import {  NavDropdown, Container, Nav, Navbar  } from 'react-bootstrap'
+import CartWidget from '../CartWidget/CartWidget'
 
 const NavBar = () => {
     return (
         <div>
           <Navbar bg="light" expand="lg">
             <Container fluid>
-              <Navbar.Brand href="#">Navbar scroll</Navbar.Brand>
+              <Navbar.Brand href="#">FDSecurity</Navbar.Brand>
               <Navbar.Toggle aria-controls="navbarScroll" />
               <Navbar.Collapse id="navbarScroll">
                 <Nav
@@ -14,19 +15,19 @@ const NavBar = () => {
                   navbarScroll
                 >
                   <Nav.Link href="#action1">Home</Nav.Link>
-                  <Nav.Link href="#action2">Link</Nav.Link>
-                  <NavDropdown title="Link" id="navbarScrollingDropdown">
-                    <NavDropdown.Item href="#action3">Action</NavDropdown.Item>
-                    <NavDropdown.Item href="#action4">Another action</NavDropdown.Item>
+                  <Nav.Link href="#action2">Staff</Nav.Link>
+                  <NavDropdown title="Services" id="navbarScrollingDropdown">
+                    <NavDropdown.Item href="#action3">Asesoria Integral</NavDropdown.Item>
+                    <NavDropdown.Item href="#action4">Seguridad de la Informacion</NavDropdown.Item>
                     <NavDropdown.Divider />
                     <NavDropdown.Item href="#action5">
                       Something else here
                     </NavDropdown.Item>
                   </NavDropdown>
-                  <Nav.Link href="#" disabled>
-                    Link
-                  </Nav.Link>
+                  <Nav.Link href="Action3">About US</Nav.Link>
                 </Nav>
+                <CartWidget/>
+                {/* 
                 <Form className="d-flex">
                   <FormControl
                     type="search"
@@ -34,8 +35,9 @@ const NavBar = () => {
                     className="me-2"
                     aria-label="Search"
                   />
-                  <Button variant="outline-success">Search</Button>
-                </Form>
+                  <Button> .# </Button>
+                  
+                </Form> */}
               </Navbar.Collapse>
             </Container>
           </Navbar>
