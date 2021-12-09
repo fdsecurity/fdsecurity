@@ -197,8 +197,8 @@
   .loading {
     animation: loading 2s infinite;
     margin: 3rem;
-    width: 9rem;
-    height: 9rem;
+    width: 15rem;
+    height: 15rem;
   }
   @keyframes loading {
     0% {

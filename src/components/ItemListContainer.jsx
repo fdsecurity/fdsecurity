@@ -1,7 +1,7 @@
 import React, {useState, useEffect} from "react";
 import ItemList from "./ItemList";
 import stock from '../stock'
-import Loading from '../loading.svg'
+import Loading from '../thewhitehat.png'
 
 const getFetched = new Promise((resolve, reject) => {
   setTimeout(() => {
