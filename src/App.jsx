@@ -1,18 +1,16 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Logo from './thewhitehat.png';
 import './App.css';
-import NavBar from './components/NavBar';
-import ItemListContainer from './components/ItemListContainer';
-import Footer from './components/Footer';
+import Header from './components/Header/Header';
+import ItemListContainer from './components/ItemListContainer/ItemListContainer';
+import Footer from './components/Footer/Footer';
+import ItemDetailContainer from './components/ItemDetailContainer/ItemDetailContainer';
 
 function App() {
   return (
     <div className="App">
-      <header>
-        <NavBar/>
-        <img src={Logo} alt="Logo" className="logo"/>
-        </header>
-      <ItemListContainer greeting="Bienvenido a White Hat, Asesoria en Seguridad Informática"/>
+      <Header/>
+      <ItemDetailContainer/>
+      <ItemListContainer greeting="White Hat, Seguridad Informatica en la Vida Real"/>
       <Footer/>
     </div>
   );
