@@ -2,16 +2,16 @@
   {
     "id": 1,
     "name": "ASESORIA INTEGRAL",
-    "description": "Y SI TE AUDITO TE DEJAS?? ISO 27001 A TU DISPOSICION LOCURA",
+    "description": "auditando empresas desde 1810",
     "price": 2000,
-    "image": "ISO 27001.png",
+    "image": "http://www.solucionespm.com/wp-content/uploads/2018/02/seguridad-inform%C3%A1tica.jpg",
     "category": "ISO 27001",
     "stock": 6
   },
   {
     "id": 2,
     "name": " ASESORIA INTEGRAL 222",
-    "description": "Y SI TE AUDITO TE DEJAS?? ISO 27001 A TU DISPOSICION LOCURA",
+    "description": "auditando empresas desde 1810",
     "price": 10500,
     "image": "ISO 27001.png",
     "category": "ISO 27001",
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "name": " EL ASESOR LOCO",
-    "description": "Y SI TE AUDITO TE DEJAS?? ISO 27001 A TU DISPOSICION LOCURA",
+    "description": "auditando empresas desde 1810",
     "price": 10500,
     "image": "ISO 27001.png",
     "category": "ISO 27001",
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "name": "SIGUE ASESORANDO ACA",
-    "description": "Y SI TE AUDITO TE DEJAS?? ISO 27001 A TU DISPOSICION LOCURA",
+    "description": "auditando empresas desde 1810",
     "price": 20000,
     "image": "thewhitehat.png",
     "category": "Asesoria",
@@ -38,7 +38,7 @@
   {
     "id": 5,
     "name": "YA LE MANDO ISO 27001",
-    "description": "Y SI TE AUDITO TE DEJAS?? ISO 27001 A TU DISPOSICION LOCURA",
+    "description": "auditando empresas desde 1810",
     "price": 500,
     "image": "thewhitehat.png",
     "category": "Asesoria",
@@ -47,7 +47,7 @@
   {
     "id": 6,
     "name": " LE AUDITO TODA LA EMPRESA",
-    "description": "Y SI TE AUDITO TE DEJAS?? ISO 27001 A TU DISPOSICION LOCURA",
+    "description": "auditando empresas desde 1810",
     "price": 500,
     "image": "thewhitehat.png",
     "category": "ISO 27001",
@@ -56,7 +56,7 @@
   {
     "id": 7,
     "name": "ESTAS RE AUDITADO",
-    "description": "Y SI TE AUDITO TE DEJAS?? ISO 27001 A TU DISPOSICION LOCURA",
+    "description": "auditando empresas desde 1810",
     "price": 5000,
     "image": "thewhitehat.png",
     "category": "Asesoria",
@@ -65,7 +65,7 @@
   {
     "id": 8,
     "name": "LA ISO BIEN",
-    "description": "Y SI TE AUDITO TE DEJAS?? ISO 27001 A TU DISPOSICION LOCURA",
+    "description": "auditando empresas desde 1810",
     "price": 4000,
     "image": "thewhitehat.png",
     "category": "Asesoria",
@@ -74,7 +74,7 @@
   {
     "id": 9,
     "name": "EN RUINAS SI TE AUDITO",
-    "description": "Y SI TE AUDITO TE DEJAS?? ISO 27001 A TU DISPOSICION LOCURA",
+    "description": "auditando empresas desde 1810",
     "price": 6700,
     "image": "thewhitehat.png",
     "category": "Asesoria",
@@ -83,7 +83,7 @@
   {
     "id": 10,
     "name": "ALLA LA ESTAN AUDITANDO",
-    "description": "Y SI TE AUDITO TE DEJAS?? ISO 27001 A TU DISPOSICION LOCURA",
+    "description": "auditando empresas desde 1810",
     "price": 8700,
     "image": "thewhitehat.png",
     "category": "Asesoria",
@@ -92,7 +92,7 @@
   {
     "id": 11,
     "name": "ES LA OTRA ISO",
-    "description": "Y SI TE AUDITO TE DEJAS?? ISO 27001 A TU DISPOSICION LOCURA",
+    "description": "auditando empresas desde 1810",
     "price": 3800,
     "image": "thewhitehat.png",
     "category": "Asesoria",
@@ -101,7 +101,7 @@
   {
     "id": 12,
     "name": "NO NO ESA NO ES",
-    "description": "Y SI TE AUDITO TE DEJAS?? ISO 27001 A TU DISPOSICION LOCURA",
+    "description": "auditando empresas desde 1810",
     "price": 3400,
     "image": "thewhitehat.png",
     "categoria": "Asesoria",
@@ -110,7 +110,7 @@
   {
     "id": 13,
     "name": "ISO KLOR",
-    "description": "Y SI TE AUDITO TE DEJAS?? ISO 27001 A TU DISPOSICION LOCURA",
+    "description": "auditando empresas desde 1810",
     "price": 3500,
     "image": "thewhitehat.png",
     "categoria": "Asesoria",
@@ -119,7 +119,7 @@
   {
     "id": 14,
     "name": "ACA TODO AUDITOR",
-    "description": "Y SI TE AUDITO TE DEJAS?? ISO 27001 A TU DISPOSICION LOCURA",
+    "description": "auditando empresas desde 1810",
     "price": 550,
     "image": "thewhitehat.png",
     "categoria": "Asesoria",
@@ -128,7 +128,7 @@
   {
     "id": 15,
     "name": "PACK TE AUDITO EL ALMA",
-    "description": "Y SI TE AUDITO TE DEJAS?? ISO 27001 A TU DISPOSICION LOCURA",
+    "description": "auditando empresas desde 1810",
     "price": 550,
     "image": "thewhitehat.png",
     "categoria": "Asesoria",
@@ -137,7 +137,7 @@
   {
     "id": 16,
     "name": "PALA ARENA",
-    "description": "Y SI TE AUDITO TE DEJAS?? ISO 27001 A TU DISPOSICION LOCURA",
+    "description": "auditando empresas desde 1810",
     "price": 2000,
     "image": "thewhitehat.png",
     "categoria": "Asesoria",
