@@ -1,42 +1,146 @@
 [
   {
     "id": 1,
-    "name": "SERVICIO DE ASESORIA EN SEGURIDAD INFORMATICA",
-    "description": "descripcion del producto",
+    "name": "ASESORIA INTEGRAL",
+    "description": "Y SI TE AUDITO TE DEJAS?? ISO 27001 A TU DISPOSICION LOCURA",
     "price": 2000,
-    "image": "thewhitehat.png",
+    "image": "ISO 27001.png",
+    "category": "ISO 27001",
     "stock": 6
   },
   {
     "id": 2,
-    "name": "SERVICIO DE ASESORIA EN SEGURIDAD INFORMATICA",
-    "description": "Seguridad Informatica aplicacion de SGSI para todo tipo y tamaño de empresas",
+    "name": " ASESORIA INTEGRAL 222",
+    "description": "Y SI TE AUDITO TE DEJAS?? ISO 27001 A TU DISPOSICION LOCURA",
     "price": 10500,
-    "image": "thewhitehat.png",
+    "image": "ISO 27001.png",
+    "category": "ISO 27001",
     "stock": 1
   },
   {
     "id": 3,
-    "name": "SERVICIO DE ASESORIA EN SEGURIDAD INFORMATICA",
-    "description": "Seguridad Informatica aplicacion de SGSI para todo tipo y tamaño de empresas",
+    "name": " EL ASESOR LOCO",
+    "description": "Y SI TE AUDITO TE DEJAS?? ISO 27001 A TU DISPOSICION LOCURA",
     "price": 10500,
-    "image": "thewhitehat.png",
+    "image": "ISO 27001.png",
+    "category": "ISO 27001",
     "stock": 2
   },
   {
     "id": 4,
-    "name": "SERVICIO DE ASESORIA EN SEGURIDAD INFORMATICA",
-    "description": "Seguridad Informatica aplicacion de SGSI para todo tipo y tamaño de empresas",
+    "name": "SIGUE ASESORANDO ACA",
+    "description": "Y SI TE AUDITO TE DEJAS?? ISO 27001 A TU DISPOSICION LOCURA",
     "price": 20000,
     "image": "thewhitehat.png",
+    "category": "Asesoria",
     "stock": 1
   },
   {
     "id": 5,
-    "name": "SERVICIO DE ASESORIA EN SEGURIDAD INFORMATICA",
-    "description": "Seguridad Informatica aplicacion de SGSI para todo tipo y tamaño de empresas",
+    "name": "YA LE MANDO ISO 27001",
+    "description": "Y SI TE AUDITO TE DEJAS?? ISO 27001 A TU DISPOSICION LOCURA",
     "price": 500,
     "image": "thewhitehat.png",
+    "category": "Asesoria",
     "stock": 11
+  },
+  {
+    "id": 6,
+    "name": " LE AUDITO TODA LA EMPRESA",
+    "description": "Y SI TE AUDITO TE DEJAS?? ISO 27001 A TU DISPOSICION LOCURA",
+    "price": 500,
+    "image": "thewhitehat.png",
+    "category": "ISO 27001",
+    "stock": 1
+  },
+  {
+    "id": 7,
+    "name": "ESTAS RE AUDITADO",
+    "description": "Y SI TE AUDITO TE DEJAS?? ISO 27001 A TU DISPOSICION LOCURA",
+    "price": 5000,
+    "image": "thewhitehat.png",
+    "category": "Asesoria",
+    "stock": 0
+  },
+  {
+    "id": 8,
+    "name": "LA ISO BIEN",
+    "description": "Y SI TE AUDITO TE DEJAS?? ISO 27001 A TU DISPOSICION LOCURA",
+    "price": 4000,
+    "image": "thewhitehat.png",
+    "category": "Asesoria",
+    "stock": 1
+  },
+  {
+    "id": 9,
+    "name": "EN RUINAS SI TE AUDITO",
+    "description": "Y SI TE AUDITO TE DEJAS?? ISO 27001 A TU DISPOSICION LOCURA",
+    "price": 6700,
+    "image": "thewhitehat.png",
+    "category": "Asesoria",
+    "stock": 2
+  },
+  {
+    "id": 10,
+    "name": "ALLA LA ESTAN AUDITANDO",
+    "description": "Y SI TE AUDITO TE DEJAS?? ISO 27001 A TU DISPOSICION LOCURA",
+    "price": 8700,
+    "image": "thewhitehat.png",
+    "category": "Asesoria",
+    "stock": 2
+  },
+  {
+    "id": 11,
+    "name": "ES LA OTRA ISO",
+    "description": "Y SI TE AUDITO TE DEJAS?? ISO 27001 A TU DISPOSICION LOCURA",
+    "price": 3800,
+    "image": "thewhitehat.png",
+    "category": "Asesoria",
+    "stock": 0
+  },
+  {
+    "id": 12,
+    "name": "NO NO ESA NO ES",
+    "description": "Y SI TE AUDITO TE DEJAS?? ISO 27001 A TU DISPOSICION LOCURA",
+    "price": 3400,
+    "image": "thewhitehat.png",
+    "categoria": "Asesoria",
+    "stock": 2
+  },
+  {
+    "id": 13,
+    "name": "ISO KLOR",
+    "description": "Y SI TE AUDITO TE DEJAS?? ISO 27001 A TU DISPOSICION LOCURA",
+    "price": 3500,
+    "image": "thewhitehat.png",
+    "categoria": "Asesoria",
+    "stock": 2
+  },
+  {
+    "id": 14,
+    "name": "ACA TODO AUDITOR",
+    "description": "Y SI TE AUDITO TE DEJAS?? ISO 27001 A TU DISPOSICION LOCURA",
+    "price": 550,
+    "image": "thewhitehat.png",
+    "categoria": "Asesoria",
+    "stock": 12
+  },
+  {
+    "id": 15,
+    "name": "PACK TE AUDITO EL ALMA",
+    "description": "Y SI TE AUDITO TE DEJAS?? ISO 27001 A TU DISPOSICION LOCURA",
+    "price": 550,
+    "image": "thewhitehat.png",
+    "categoria": "Asesoria",
+    "stock": 12
+  },
+  {
+    "id": 16,
+    "name": "PALA ARENA",
+    "description": "Y SI TE AUDITO TE DEJAS?? ISO 27001 A TU DISPOSICION LOCURA",
+    "price": 2000,
+    "image": "thewhitehat.png",
+    "categoria": "Asesoria",
+    "stock": 2
   }
 ]
