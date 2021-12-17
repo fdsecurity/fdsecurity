@@ -23,8 +23,7 @@ const NavBar = () => {
             </NavLink>
             <ul>
               <li> <NavLink className={({ isActive }) => isActive ? "isActive" : ""} to="/category/asesoria">Asesoria</NavLink> </li>
-              <li> <NavLink className={({ isActive }) => isActive ? "isActive" : ""} to="/category/asesoria">Auditoria</NavLink> </li>
-              <li> <NavLink className={({ isActive }) => isActive ? "isActive" : ""} to="/category/certificacion">ISO 27001</NavLink> </li>
+              <li> <NavLink className={({ isActive }) => isActive ? "isActive" : ""} to="/category/certificacion">Auditoria</NavLink> </li>
             </ul>
           </li>
           <CartWidget/>
