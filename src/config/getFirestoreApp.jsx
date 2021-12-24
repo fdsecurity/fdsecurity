@@ -1,16 +1,14 @@
 import { initializeApp } from "firebase/app";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBPJMuM9L2DbCtD7dWn4d3wwF6jAQqK5UY",
-  authDomain: "hope-pet-shop.firebaseapp.com",
-  projectId: "hope-pet-shop",
-  storageBucket: "hope-pet-shop.appspot.com",
-  messagingSenderId: "985031501635",
-  appId: "1:985031501635:web:b6c33ac7c6e09c79cd71f6"
+  apiKey: "AIzaSyAOvqkiPr2qhwRuA3KZJGdbL6GIXeHEdms",
+  authDomain: "fdsecurity-3fe76.firebaseapp.com",
+  projectId: "fdsecurity-3fe76",
+  storageBucket: "fdsecurity-3fe76.appspot.com",
+  messagingSenderId: "750537415854",
+  appId: "1:750537415854:web:ae6e2675909f0f494fe13f"
 };
 
 const firestoreApp = initializeApp(firebaseConfig);
 
-export const getFirestoreApp = () => {
-  return firestoreApp;
-};  
+export default firebaseConfig

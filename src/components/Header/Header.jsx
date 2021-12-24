@@ -1,4 +1,4 @@
-import Logo from '../../assets/images/logo.svg';
+import Logo from '../../assets/images/thewhitehat.png';
 import NavBar from '../NavBar/NavBar';
 import { NavLink, Link } from 'react-router-dom';
 import Search from '../Search/Search';
@@ -11,10 +11,10 @@ const Header = () => {
     <>
       <header className='headerMD'>
         <NavBar />
-        <Link className='brand' to='/'><h1>HopePetshop<img src={Logo} alt="Logo de marca Hope Petshop" className="logo" /></h1></Link>
+        <Link className='brand' to='/'><h1>TheWhiteHat<img src={Logo} alt="White Hat Logo" className="logo" /></h1></Link>
       </header>
       <header className='headerL'>
-      <Link className='brand' to='/'><h1>HopePetshop<img src={Logo} alt="Logo de marca Hope Petshop" className="logo" /></h1></Link>
+      <Link className='brand' to='/'><h1>TheWhiteHat<img src={Logo} alt="White Hat Logo" className="logo" /></h1></Link>
         <div className='innerHeader'>
           <div className="rrss">
             <ul className="fooUl">

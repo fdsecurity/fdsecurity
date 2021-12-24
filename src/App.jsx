@@ -17,10 +17,10 @@ function App() {
       <div className="App">
         <Header/>
         <Routes>
-          <Route path="/" element={<Home greetings="Bienvenido a HopePetshop, lo mejor para tu mascota!"/>}/>
+          <Route path="/" element={<Home greetings="Bienvenido a TheWhiteHat, lo mejor para tu mascota!"/>}/>
           <Route  
             path="/all" 
-            element={<ItemListContainer greetings="Bienvenido a HopePetshop, lo mejor para tu mascota!"/>}/>
+            element={<ItemListContainer greetings="Bienvenido a TheWhiteHat, lo mejor para tu mascota!"/>}/>
           <Route  
             path="/category/:idCategory" 
             element={<ItemListContainer/>}/>

@@ -32,11 +32,11 @@ const Footer = () => {
         <h4>Contacto</h4>
         <ul className="fooUl">
           <li className="fooUlLi"><a className="link" href="/">+569-55597600</a></li>
-          <li className="fooUlLi"><a className="link" href="/">hopepetshop@hopepetshop.cl</a></li>
+          <li className="fooUlLi"><a className="link" href="/">TheWhiteHat@TheWhiteHat.cl</a></li>
         </ul>
       </div>
       <div className="footerCopy">
-        <p>Copyright HopePetshop.cl - 2021. Todos los derechos reservados.</p>
+        <p>Copyright TheWhiteHat.cl - 2021. Todos los derechos reservados.</p>
         <p>Diseño y desarrollo por <a className="link" href="https://www.linkedin.com/in/antsth/">Luis Julio</a></p>
       </div>
     </footer>

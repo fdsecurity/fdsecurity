@@ -4,8 +4,8 @@
     "name": "CHAMPION DOG ADULTO CARNE CEREAL 8 X 1,5 KG",
     "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis ratione commodi neque aperiam rem magnam minima assumenda tenetur eveniet aspernatur? Recusandae suscipit quaerat perspiciatis eius cupiditate doloremque accusantium autem possimus.",
     "price": 2000,
-    "image": "firulais.png",
-    "category": "firulais",
+    "image": "cloud.png",
+    "category": "cloud",
     "stock": 6
   },
   {
@@ -13,8 +13,8 @@
     "name": "CHAMPION DOG ADULTO RAZA PEQUEÑA 8 KG",
     "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis ratione commodi neque aperiam rem magnam minima assumenda tenetur eveniet aspernatur? Recusandae suscipit quaerat perspiciatis eius cupiditate doloremque accusantium autem possimus.",
     "price": 10500,
-    "image": "firulais.png",
-    "category": "firulais",
+    "image": "cloud.png",
+    "category": "cloud",
     "stock": 1
   },
   {
@@ -22,8 +22,8 @@
     "name": "CHAMPION DOG CACHORRO 8 KG",
     "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis ratione commodi neque aperiam rem magnam minima assumenda tenetur eveniet aspernatur? Recusandae suscipit quaerat perspiciatis eius cupiditate doloremque accusantium autem possimus.",
     "price": 10500,
-    "image": "firulais.png",
-    "category": "firulais",
+    "image": "cloud.png",
+    "category": "cloud",
     "stock": 2
   },
   {
@@ -31,8 +31,8 @@
     "name": "CUBICAT 20KG",
     "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis ratione commodi neque aperiam rem magnam minima assumenda tenetur eveniet aspernatur? Recusandae suscipit quaerat perspiciatis eius cupiditate doloremque accusantium autem possimus.",
     "price": 20000,
-    "image": "michi.png",
-    "category": "michis",
+    "image": "router.png",
+    "category": "router",
     "stock": 1
   },
   {
@@ -40,8 +40,8 @@
     "name": "CHAMPION CAT POUCH CARNE",
     "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis ratione commodi neque aperiam rem magnam minima assumenda tenetur eveniet aspernatur? Recusandae suscipit quaerat perspiciatis eius cupiditate doloremque accusantium autem possimus.",
     "price": 500,
-    "image": "michi.png",
-    "category": "michis",
+    "image": "router.png",
+    "category": "router",
     "stock": 11
   },
   {
@@ -49,8 +49,8 @@
     "name": "CHAMPION DOG POUCH CARNE",
     "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis ratione commodi neque aperiam rem magnam minima assumenda tenetur eveniet aspernatur? Recusandae suscipit quaerat perspiciatis eius cupiditate doloremque accusantium autem possimus.",
     "price": 500,
-    "image": "firulais.png",
-    "category": "firulais",
+    "image": "cloud.png",
+    "category": "cloud",
     "stock": 1
   },
   {
@@ -58,8 +58,8 @@
     "name": "ARENA SANITARIA 5KG",
     "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis ratione commodi neque aperiam rem magnam minima assumenda tenetur eveniet aspernatur? Recusandae suscipit quaerat perspiciatis eius cupiditate doloremque accusantium autem possimus.",
     "price": 5000,
-    "image": "michi.png",
-    "category": "michis",
+    "image": "router.png",
+    "category": "router",
     "stock": 0
   },
   {
@@ -67,8 +67,8 @@
     "name": "CAT CHOW OCEAN",
     "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis ratione commodi neque aperiam rem magnam minima assumenda tenetur eveniet aspernatur? Recusandae suscipit quaerat perspiciatis eius cupiditate doloremque accusantium autem possimus.",
     "price": 4000,
-    "image": "michi.png",
-    "category": "michis",
+    "image": "router.png",
+    "category": "router",
     "stock": 1
   },
   {
@@ -76,8 +76,8 @@
     "name": "AGILITY CAT URINARY 1.5 KG",
     "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis ratione commodi neque aperiam rem magnam minima assumenda tenetur eveniet aspernatur? Recusandae suscipit quaerat perspiciatis eius cupiditate doloremque accusantium autem possimus.",
     "price": 6700,
-    "image": "michi.png",
-    "category": "michis",
+    "image": "router.png",
+    "category": "router",
     "stock": 2
   },
   {
@@ -85,8 +85,8 @@
     "name": "AGILITY CAT CONTROL PESO 1.5 KG",
     "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis ratione commodi neque aperiam rem magnam minima assumenda tenetur eveniet aspernatur? Recusandae suscipit quaerat perspiciatis eius cupiditate doloremque accusantium autem possimus.",
     "price": 8700,
-    "image": "michi.png",
-    "category": "michis",
+    "image": "router.png",
+    "category": "router",
     "stock": 2
   },
   {
@@ -94,8 +94,8 @@
     "name": "WHISKAS CARNE 1KG",
     "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis ratione commodi neque aperiam rem magnam minima assumenda tenetur eveniet aspernatur? Recusandae suscipit quaerat perspiciatis eius cupiditate doloremque accusantium autem possimus.",
     "price": 3800,
-    "image": "michi.png",
-    "category": "michis",
+    "image": "router.png",
+    "category": "router",
     "stock": 0
   },
   {
@@ -103,8 +103,8 @@
     "name": "ARENA AGLUTINANTE VIP",
     "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis ratione commodi neque aperiam rem magnam minima assumenda tenetur eveniet aspernatur? Recusandae suscipit quaerat perspiciatis eius cupiditate doloremque accusantium autem possimus.",
     "price": 3400,
-    "image": "michi.png",
-    "categoria": "michis",
+    "image": "router.png",
+    "categoria": "router",
     "stock": 2
   },
   {
@@ -112,8 +112,8 @@
     "name": "RAZA GATO REDUCIDO EN CALORIAS",
     "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis ratione commodi neque aperiam rem magnam minima assumenda tenetur eveniet aspernatur? Recusandae suscipit quaerat perspiciatis eius cupiditate doloremque accusantium autem possimus.",
     "price": 3500,
-    "image": "michi.png",
-    "categoria": "michis",
+    "image": "router.png",
+    "categoria": "router",
     "stock": 2
   },
   {
@@ -121,8 +121,8 @@
     "name": "SACHET WHISKAS SALMÓN",
     "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis ratione commodi neque aperiam rem magnam minima assumenda tenetur eveniet aspernatur? Recusandae suscipit quaerat perspiciatis eius cupiditate doloremque accusantium autem possimus.",
     "price": 550,
-    "image": "michi.png",
-    "categoria": "michis",
+    "image": "router.png",
+    "categoria": "router",
     "stock": 12
   },
   {
@@ -130,8 +130,8 @@
     "name": "SACHET WHISKAS POLLO",
     "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis ratione commodi neque aperiam rem magnam minima assumenda tenetur eveniet aspernatur? Recusandae suscipit quaerat perspiciatis eius cupiditate doloremque accusantium autem possimus.",
     "price": 550,
-    "image": "michi.png",
-    "categoria": "michis",
+    "image": "router.png",
+    "categoria": "router",
     "stock": 12
   },
   {
@@ -139,8 +139,8 @@
     "name": "PALA ARENA",
     "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis ratione commodi neque aperiam rem magnam minima assumenda tenetur eveniet aspernatur? Recusandae suscipit quaerat perspiciatis eius cupiditate doloremque accusantium autem possimus.",
     "price": 2000,
-    "image": "michi.png",
-    "categoria": "michis",
+    "image": "router.png",
+    "categoria": "router",
     "stock": 2
   }
 ]
