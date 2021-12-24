@@ -1,5 +1,4 @@
 import Carrusel from "../Carousel/Carousel"
-import Favorites from "../Favorites/Favorites"
 
 const Home = ({ greetings }) => {
   return (
@@ -7,10 +6,9 @@ const Home = ({ greetings }) => {
       <h2>{greetings}</h2>
       <Carrusel/>
         <p className="enunciado">
-        Asesoria Informatica Integral
-        <small>Auditorias ISO 27001</small>
+        Los alimentos favoritos de tu mascota sin moverte de tu casa.
+        <small>ENVIO GRATIS (Pedido mínimo $20.000)</small>
         </p>
-      <Favorites/>
     </main>
   )
 }

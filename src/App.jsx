@@ -8,17 +8,19 @@ import ItemDetailContainer from './components/ItemDetailContainer/ItemDetailCont
 import Cart from './components/Cart/Cart';
 import Footer from './components/Footer/Footer';
 import NotFound from './components/NotFound/NotFound';
+import CartContextProvider from './context/CartContext';
 
 function App() {
   return (
+    <CartContextProvider>
     <BrowserRouter>
       <div className="App">
         <Header/>
         <Routes>
-          <Route path="/" element={<Home greetings="WhiteHat, Seguridad de la Informacion y Comunicaciones"/>}/>
+          <Route path="/" element={<Home greetings="Bienvenido a HopePetshop, lo mejor para tu mascota!"/>}/>
           <Route  
             path="/all" 
-            element={<ItemListContainer greetings="WhiteHat, Seguridad de la Informacion y Comunicaciones"/>}/>
+            element={<ItemListContainer greetings="Bienvenido a HopePetshop, lo mejor para tu mascota!"/>}/>
           <Route  
             path="/category/:idCategory" 
             element={<ItemListContainer/>}/>
@@ -35,6 +37,7 @@ function App() {
         <Footer/>
       </div>
     </BrowserRouter>
+    </CartContextProvider>
   );
 }
 
